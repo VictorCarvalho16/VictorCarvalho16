@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, i'm Victor Carvalho
 
-<!--
-**VictorCarvalho16/VictorCarvalho16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 [LinkedIn](https://www.linkedin.com/in/victor-hugo-carvallho) <br>
 
-Here are some ideas to get you started:
+Enthusiast of the best web & mobile development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lifetime leaner
+## Actual focus on
+  - Javascript
+    - Typescript
+    - Node
+      - Express
+    - Reactjs
+      - Redux
+      - Styled Components
+    - ReactNative
