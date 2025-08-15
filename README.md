@@ -22,3 +22,10 @@ Desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções que im
 ### 📫 Como me encontrar:
 
 * **LinkedIn:** [Victor Hugo Carvalho](https://www.linkedin.com/in/victor-hugo-carvallho/)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCarvalho16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VictorCarvalho16&theme=bear)](https://git.demolab.com/rashtell/streak-stats)
