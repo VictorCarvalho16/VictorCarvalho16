@@ -1,30 +1,36 @@
-# Olá, sou o Victor Carvalho! 👋
+# Hi, I'm Victor 👋
 
-Desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções que impactam positivamente a vida das pessoas. Tenho experiência sólida no desenvolvimento de aplicações web robustas e escaláveis, utilizando tecnologias como Node.js, TypeScript e PHP.
+**Senior Software Engineer** · TypeScript · Node.js · React · AWS · AI agent tooling
+📍 Brazil · 🌎 Remote — strong overlap with US & EU hours
 
-### 🚀 Principais Habilidades:
+I build scalable backend and full-stack systems, and the AI tooling that helps engineering teams ship faster with fewer mistakes. Currently at **Grupo Boticário**, one of Latin America's largest beauty retailers.
 
-* **Back-end:**
-    * **Node.js & TypeScript:** Desenvolvimento de APIs RESTful eficientes e seguras.
-    * **PHP:** Manutenção e desenvolvimento de sistemas legados e novos projetos.
+### 🚀 What I've shipped
 
-* **Front-end:**
-    * **React:** Criação de interfaces de usuário dinâmicas e reativas.
-    * **Angular.js:** Experiência com o framework para aplicações robustas.
+- 💸 **99% infrastructure cost cut** — Modernized a campaign platform from IBM TM1/QlikView to AWS (Node.js, Lambda, SQS, EC2, React): ~$200k → ~$1k/year, supporting 2,000+ stores and 300+ campaigns a year.
+- 🤖 **AI agent harness** — Agent skills, repository rules and MCP integrations (GitHub, Kanbanize, MongoDB, New Relic, Figma, Slack) that cut rework by **70%**. Presented the approach company-wide.
+- 📡 **Company-wide Global Pricer** — Lambda producers publishing pricing and marketing data for every SKU to a Kafka topic.
+- 🧩 **Portfolio management platform** — Adopted by 12 teams in its first year, replacing a process spread across 16+ spreadsheets.
+- 📈 **3x growth at a healthtech SaaS** — As Tech Lead, helped launch a freemium model that tripled registered organizations (~30% free-to-paid).
 
-* **Banco de Dados:**
-    * **PostgreSQL:** Modelagem e gerenciamento de bancos de dados relacionais.
-    * **MongoDB:** Utilização de bancos de dados NoSQL para aplicações flexíveis.
+### 🛠️ Tech
 
-* **Infraestrutura & DevOps:**
-    * **AWS:** Experiência com serviços como EC2 para provisionamento de servidores, S3 para armazenamento de objetos e RDS para gerenciamento de bancos de dados.
+| Area | Stack |
+|---|---|
+| **Backend** | Node.js · TypeScript · REST APIs · Apache Kafka · Amazon SQS · MongoDB · PostgreSQL · Redis |
+| **Cloud** | AWS (Lambda, EC2, S3, SQS, Glue, CloudFront) · Serverless · Docker · Kubernetes · CI/CD |
+| **Frontend** | React · JavaScript |
+| **AI** | AI Agents · Model Context Protocol (MCP) · Context Engineering · Claude Code · Cursor · GitHub Copilot |
+| **Practices** | Clean Architecture · SOLID · Event-driven · Distributed Systems · Test Automation |
 
-### 📫 Como me encontrar:
+### 🔭 Right now
 
-* **LinkedIn:** [Victor Hugo Carvalho](https://www.linkedin.com/in/victor-hugo-carvallho/)
+- Building AI agent tooling: MCP servers, agent skills and context engineering
+- Learning Go → [GO-Routine](https://github.com/VictorCarvalho16/GO-Routine)
+- B.Sc. in Software Engineering (in progress)
 
----
+### 🤝 Let's connect
 
-### 📊 Estatísticas do GitHub
+Open to **remote Senior Node.js, Backend and AI Engineering roles** (US · Canada · UK · EU).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCarvalho16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Carvalho-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-carvallho/)
