@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋
 
-**Senior Software Engineer** · TypeScript · Node.js · React · AWS · AI agent tooling
+**Senior Software Engineer** · TypeScript · Node.js · React · AWS · AI agent tooling<br>
 📍 Brazil · 🌎 Remote — strong overlap with US & EU hours
 
 I build scalable backend and full-stack systems, and the AI tooling that helps engineering teams ship faster with fewer mistakes. Currently at **Grupo Boticário**, one of Latin America's largest beauty retailers.
